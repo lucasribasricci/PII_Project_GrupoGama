@@ -4,14 +4,11 @@
 // </copyright>
 //------------------------------------------------------------------------------
 
-using ClassLibrary;
+using System.Globalization;
 using NUnit.Framework;
 
 namespace Tests
 {
-    /// <summary>
-    /// Prueba de la clase <see cref="Train"/>.
-    /// </summary>
     [TestFixture]
     public class TrainTests
     {
